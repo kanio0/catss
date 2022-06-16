@@ -142,3 +142,25 @@ li:hover {
     line-height: 16px;
     ;
 }
+
+.about{
+    background-color: white;
+    display: flex;
+    padding: 30px 200px;
+    justify-content: space-around;
+    align-items: center;
+}
+.abouttext{
+    color: black;
+
+}
+
+.aboutimg {
+    max-width: 40%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
