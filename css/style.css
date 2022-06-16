@@ -152,7 +152,10 @@ li:hover {
 }
 .abouttext{
     color: black;
-
+    max-width: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 18px;
 }
 
 .aboutimg {
