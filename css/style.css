@@ -132,6 +132,7 @@ li:hover {
     font-size: 16px;
     line-height: 19px;
     display: list-item;
+
 }
 
 .info {
@@ -166,4 +167,25 @@ a{
     text-decoration: none;
     color: white;
 
+}
+
+.section-mar {
+    background-color: #00A651;
+    display: flex;
+    padding: 30px 200px;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.mar-text {
+    max-width: 60%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.mar-image {
+    max-width: 40%;
 }
