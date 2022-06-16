@@ -16,7 +16,7 @@ h2{
     font-weight: 400;
     font-size: 27px;
     line-height: 27px;
-    align-items: center;
+    text-align: center;
 }
 
 h1 {
@@ -179,6 +179,7 @@ li:hover {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 600;
     font-size: 18px;
+    text-align: center;
 
 }
 
