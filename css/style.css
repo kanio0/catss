@@ -76,7 +76,7 @@ li:hover {
     align-items: center;
 }
 
-.pro-text{
+.pro-text {
     max-width: 60%;
     color: white;
     font-family: 'Times New Roman', Times, serif;
@@ -84,10 +84,61 @@ li:hover {
     font-size: 18px;
 }
 
-.pro-image{
+.pro-image {
     max-width: 40%;
 }
 
-.spisok{
-    font-size: 24px;
+.spisok {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: list-item;
+}
+
+.info {
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    ;
+}
+
+.section-ui {
+    background-color: #00A651;
+    display: flex;
+    padding: 30px 200px;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.ui-text {
+    max-width: 60%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.ui-image {
+    max-width: 40%;
+}
+
+.spisok {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: list-item;
+}
+
+.info {
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    ;
 }
