@@ -5,7 +5,7 @@ body {
 h1 {
     font-size: 39px;
     color: black;
-    font-family:"Press Start 2P", cursive;
+    font-family: "Press Start 2P", cursive;
     padding: 10px;
     background-color: white;
     border-radius: 10px;
@@ -54,15 +54,36 @@ li {
     align-items: center;
 }
 
-li:hover{
+li:hover {
     color: gold;
 }
 
-.banner{
+.banner {
     height: 881px;
     background-image: url("../images/banner1.png");
     display: flex;
     align-items: center;
     justify-content: space-around;
     background-position: fix;
+}
+
+.section-programming {
+    background-color: #00A651;
+    display: flex;
+    padding: 30px 200px;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.pro-text{
+    max-width: 60%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.pro-image{
+    max-width: 40%;
 }
